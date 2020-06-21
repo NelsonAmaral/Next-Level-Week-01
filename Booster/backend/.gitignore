@@ -1,0 +1,13 @@
+node_modules
+uplpads/*
+!uplpads/.gitkeep
+!uplpads/baterias.svg
+!uplpads/eletronicos.svg
+!uplpads/lampadas.svg
+!uplpads/oleo.svg
+!uplpads/organicos.svg
+!uplpads/papeis-papelao.svg
+
+
+
+*.sqlite
